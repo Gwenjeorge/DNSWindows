@@ -1,5 +1,7 @@
 # Configuration d'un serveur DNS sur Windows Server
 
+Le serveur est en 192.168.0.10 et le client Windows en 192.168.0.5
+
 -   Dans le server manager  faire Add roles and features puis Sélectionner DNS Server et faire l'installation
     
 -   Ouvrir depuis Tools > DNS
