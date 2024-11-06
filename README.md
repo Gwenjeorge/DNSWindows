@@ -10,7 +10,7 @@
     
 -   Ajouter un CNAME record pour `dnsalias.wilders.lan` dirigeant vers `dns.wilders.lan`
 
-  ![Forward](./WinNSCONF)
+  ![Forward](./WinNSCONF.png)
     
 -   Créer une Reverse Lookup Zone en cliquant droit sur Reverse Lookup Zones puis New Zone. Choisir Primary Zone et Nom : `0.168.192.in-addr.arpa` pour le réseau `192.168.0.0/24`
     
